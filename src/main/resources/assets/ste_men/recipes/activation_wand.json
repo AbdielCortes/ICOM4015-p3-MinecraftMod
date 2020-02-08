@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "S",
+    "T"
+  ],
+
+  "key":
+  {
+    "S":
+    {
+      "item": "ste_men:sapphire"
+    },
+
+    "T":
+    {
+      "item": "ste_men:unicorn_horn"
+    }
+  },
+
+  "result":
+  {
+    "item": "ste_men:activation_wand",
+    "count": 1
+  }
+}

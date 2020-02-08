@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    "  T",
+    " T ",
+    "I"
+  ],
+
+  "key":
+  {
+    "I":
+    {
+      "item": "ste_men:iron_stick"
+    },
+
+    "T":
+    {
+      "item": "ste_men:tungsten_ingot"
+    }
+  },
+
+  "result":
+  {
+    "item": "ste_men:tungsten_broadsword",
+    "count": 1
+  }
+}

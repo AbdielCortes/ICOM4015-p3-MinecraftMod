@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " D ",
+    "DSD",
+    " D "
+  ],
+
+  "key":
+  {
+    "S":
+    {
+      "item": "ste_men:sapphire"
+    },
+
+    "D":
+    {
+      "item": "minecraft:diamond"
+    }
+  },
+
+  "result":
+  {
+    "item": "ste_men:mana_flower",
+    "count": 1
+  }
+}

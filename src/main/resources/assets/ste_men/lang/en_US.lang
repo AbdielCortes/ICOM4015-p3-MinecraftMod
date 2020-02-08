@@ -1,0 +1,77 @@
+//Items
+item.sapphire_axe.name=Sapphire Axe
+item.sapphire_hoe.name=Sapphire Hoe
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.sapphire_spade.name=Sapphire Shovel
+item.unicorn_horn.name=Unicorn Horn
+item.unicorn_hair.name=Unicorn Hair
+item.iron_stick.name=Iron Stick
+
+// Wands
+item.thunder_wand.name=Thunder Wand
+item.activation_wand.name=Activation Wand
+
+// Bows
+item.iron_bow.name=Iron Bow
+
+//Arrows
+item.holy_arrow.name=Holy Arrow
+
+// Swords
+item.copper_shortsword.name=Copper ShortSword
+item.tungsten_broadsword.name=Tungsten Broadsword
+item.sapphire_sword.name=Sapphire Sword
+item.mana_sword.name=Mana Sword
+item.platinum_broadsword.name=Platinum Broadsword
+
+//Ingots
+item.platinum_ingot.name=Platinum Ingot
+item.bronze_ingot.name=Bronze Ingot
+item.tungsten_ingot.name=Tungsten Ingot
+item.copper_ingot.name=Copper Ingot
+item.sapphire.name=Sapphire
+item.tin_ingot.name=Tin Ingot
+item.lead_ingot.name=Lead Ingot
+
+
+//Nuggets
+item.copper_nugget.name=Copper Nugget
+item.bronze_nugget.name=Bronze Nugget
+item.platinum_nugget.name=Platinum Nugget
+item.tin_nugget.name=Tin Nugget
+item.tungsten_nugget.name=Tungsten Nugget
+item.lead_nugget.name=Lead Nugget
+
+
+//Armors
+item.sapphire_helmet.name=Sapphire Helmet
+item.sapphire_chestplate.name=Sapphire Chestplate
+item.sapphire_leggings.name=Sapphire Leggings
+item.sapphire_boots.name=Sapphire Boots
+
+//Blocks
+tile.copper_block.name=Block of Copper
+tile.sapphire_block.name=Block of Sapphire
+tile.sapphire_ore.name=Sapphire Ore
+tile.mana_flower.name=Mana Flower
+tile.copper_ore.name=Copper Ore
+tile.nicolas_cage_block.name=Block of Nicolas Cage
+
+//Chests
+container.treasure_chest.name=Treasure Chest
+
+//Entities
+entity.unicorn.name=Unicorn
+
+
+//Food
+item.unicorn_meat.name=Unicorn Meat
+
+//Fluids
+fluid.holy_wate.name=Holy Water
+
+//Creative tab
+itemGroup.mod_creative_tab=Mana Flower Mod
+
+//Messages
+message.ste_men.mana=Mana: %d

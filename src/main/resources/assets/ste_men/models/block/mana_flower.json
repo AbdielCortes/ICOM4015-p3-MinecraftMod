@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "ste_men:blocks/mana_flower"
+  }
+}

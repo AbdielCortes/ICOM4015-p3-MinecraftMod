@@ -1,0 +1,6 @@
+{
+   "parent": "item/handheld",
+   "textures": {
+       "layer0": "ste_men:items/tungsten_broadsword"
+   }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " IU",
+    "I U",
+    " IU"
+  ],
+
+  "key":
+  {
+    "I":
+    {
+      "item": "ste_men:iron_stick"
+    },
+
+    "U":
+    {
+      "item": "ste_men:unicorn_hair"
+    }
+  },
+
+  "result":
+  {
+    "item": "ste_men:iron_bow",
+    "count": 1
+  }
+}
