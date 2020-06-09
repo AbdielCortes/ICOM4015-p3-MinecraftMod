@@ -79,4 +79,5 @@ Additional items in the mod, items that where not covered in this "read me" wher
 <br>
 <br> 
 <br>
-###### The textures for all the sapphire items, the mana flower, all the unicorn items and the unicorn model were all drawn by me.
+
+ ###### The textures for all the sapphire items, the mana flower, all the unicorn items and the unicorn model were all drawn by me.
