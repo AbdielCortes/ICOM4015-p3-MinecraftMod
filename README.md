@@ -41,7 +41,7 @@ The other main feature of this mod is the addition of unicorns. They behave like
 that you can tame them and ride them, but unicorns are noble creatures that are not to be taken into battle,
 so they cannot wear armor. You can breed unicors with golden apples; when you breed two unicorns you always
 get another unicorn, but when you breed a unicorn with a horse, donkey or mule, you have a 80% chance of 
-producing a horse and a 20% of producing a unicorn. You can obtain unicor hair by using shears.
+producing a horse and a 20% of producing a unicorn. You can obtain unicorn hair by using shears.
 
 <img src="ReadMeImages/unicornDrops.png" width="400"> 
 
@@ -54,6 +54,7 @@ unicorn meat, and 1-2 piece(s) of leather.
  
 *"It is a terrible crime to slay a unicorn, drinking the blood of a unicorn will keep you alive even if you are 
 an inch from death, but at a terrible price" [-Firenze (Harry Potter and the Philosopher's Stone), JK Rowling]*
+
 Eating unicorn meat has strong healing effects, but they come at a terrible price.
 #### Unicorn Meat Effects:
 * Bilndness - 20 seconds
@@ -61,6 +62,8 @@ Eating unicorn meat has strong healing effects, but they come at a terrible pric
 * Health Boost II - 1 minute
 * Mining Fatigue III - 3 minutes
 * Regeneration III - 5 minutes
+
+<br>
 
 <img src="ReadMeImages/wand.png" width="400"> 
 
@@ -76,4 +79,4 @@ Additional items in the mod, items that where not covered in this "read me" wher
 <br>
 <br> 
 <br>
-##### The textures for all the sapphire items, the mana flower, all the unicorn items and the unicorn model were all drawn by me.
+###### The textures for all the sapphire items, the mana flower, all the unicorn items and the unicorn model were all drawn by me.
