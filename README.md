@@ -5,25 +5,25 @@ Minecraft mod using Forge for Minecraft 1.12.2.
 Coded in collaboration with GitHub user FrenzyExists.
 
 Special thanks to YouTube users Harry Talks and TechnoVision; their videos helped me
-understand the more intracate parts of Minecraft's code. I recomend their videos if you're
-intrested in learning to create Minecraft mods.
+understand the more intricate parts of Minecraft's code. I recommend their videos if you're
+interested in learning to create Minecraft mods.
 
 <br>
 <br>
 <img src="ReadMeImages/items.png" width="400"> 
 
 This mod adds the sapphire material, along with its tools and armor.
-All their recepies are the same as with the other materials.
-The sapphire ore spawnns on level 5-25 in groups of 5-10.
+All their recipes  are the same as with the other materials.
+The sapphire ore spawns on level 5-25 in groups of 5-10.
 
 <br>
 <br>
 <img src="ReadMeImages/mana.png" width="400"> 
 
-The main feature of this mod is the Mana Flower. Its a flower that creates mana by burning
+The main feature of this mod is the Mana Flower. It's a flower that creates mana by burning
 near coal blocks when you right click it, for every coal block it gains 20 mana. You can then 
 transfer the mana to the Mana Sword by shift+rightClicking the mana flower with the sword in hand.
-The sword deals more damage the more mana it has stored, for every hit it looses 1 mana.
+The sword deals more damage the more mana it has stored, for every hit it loses 1 mana.
 
 <img src="ReadMeImages/radius.png" width="400"> 
 
@@ -39,7 +39,7 @@ The Mana Flower is crafted using 4 diamonds and a sapphire.
 
 The other main feature of this mod is the addition of unicorns. They behave like horses in the sense
 that you can tame them and ride them, but unicorns are noble creatures that are not to be taken into battle,
-so they cannot wear armor. You can breed unicors with golden apples; when you breed two unicorns you always
+so they cannot wear armor. You can breed unicorns with golden apples; when you breed two unicorns you always
 get another unicorn, but when you breed a unicorn with a horse, donkey or mule, you have a 80% chance of 
 producing a horse and a 20% of producing a unicorn. You can obtain unicorn hair by using shears.
 
@@ -57,7 +57,7 @@ an inch from death, but at a terrible price" [-Firenze (Harry Potter and the Phi
 
 Eating unicorn meat has strong healing effects, but they come at a terrible price.
 #### Unicorn Meat Effects:
-* Bilndness - 20 seconds
+* Blindness - 20 seconds
 * Nausea - 30 seconds
 * Health Boost II - 1 minute
 * Mining Fatigue III - 3 minutes
@@ -74,7 +74,7 @@ in the same way a flint & steel would.
 <br>
 
 <img src="ReadMeImages/inventory.png" width="400"> 
-Additional items in the mod, items that where not covered in this "read me" where created by GitHub user FrenzyExists.
+Additional items in the mod, items that were not covered in this "read me" where created by GitHub user FrenzyExists.
 
 <br>
 <br> 
